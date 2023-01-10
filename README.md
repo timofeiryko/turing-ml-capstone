@@ -12,4 +12,4 @@ This is my capstone project from Turing College, based on Home Credit Kaggle Dat
 - `data_preparation.py` - data preparation for the app
 - `models` directory - contains trained models
 
-There are som other notebooks with different ML experiments.
+There are some other notebooks with different ML experiments.
